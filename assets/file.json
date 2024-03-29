@@ -1,0 +1,37 @@
+[
+  {
+    "title": "android",
+    "childrens": [
+      {
+        "title": "app",
+        "childrens": [
+          {
+            "title": "src",
+            "childrens": [
+              {
+                "title": "components"
+              },
+              {
+                "title": "utils"
+              }
+            ]
+          },
+          {
+            "title": "res",
+            "childrens": [
+              {
+                "title": "drawable"
+              },
+              {
+                "title": "layout"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "settings.gradle"
+      }
+    ]
+  }
+]
